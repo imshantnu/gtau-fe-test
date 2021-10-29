@@ -1,5 +1,11 @@
 ## Gumtree AU Front-End Code Test
 
+**Hi!**
+
+This repo was cloned from the test repo; The solution has been pushed and can be tested using the same getting started doco!
+
+The exercise was time boxed to 2 hours as suggested!
+
 Hello! :wave:
 
 This is the code test for Front-End Developer candidates at Gumtree Australia.
